@@ -1,7 +1,4 @@
 # TravelEx Web Application
-
-This is the group project for CPSC 362.
-
 # Quick start
 
 To install:
