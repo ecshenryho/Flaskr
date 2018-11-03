@@ -1,0 +1,2 @@
+<script type="text/javascript" src="{{ url_for('static', filename='flights.js') }}"></script>
+<link rel="stylesheet" href="{{ url_for('static',filename='flights.css') }}">
