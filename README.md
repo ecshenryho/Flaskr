@@ -1,2 +1,1 @@
-# Flaskr
-Source Code from: flask.pocoo.org
+Have fun with Flask
